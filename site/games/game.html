@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hermit Puzzle | Find the Truth</title>
+    <link rel="stylesheet" href="game.css">
+</head>
+<body>
+    <div id="game-container">
+        <header>
+            <h1>Hermit Puzzle</h1>
+            <div id="progress">Puzzle 1 / 100</div>
+        </header>
+
+        <div id="scene-display">
+            <h2 id="scene-title">Loading Scene...</h2>
+            <p id="scene-description">Find the right item to uncover the solution.</p>
+        </div>
+
+        <div id="items-grid">
+            <!-- Items will be injected here -->
+        </div>
+
+        <div id="hint-display" class="hidden">
+            <strong>Hint:</strong> <span id="hint-text"></span>
+        </div>
+
+        <div id="solution-container" class="hidden">
+            <div class="success-message">Puzzle Solved!</div>
+            <p id="final-answer"></p>
+            <button id="next-btn">Next Puzzle</button>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "scene": "The Ancient Library",
+    "description": "Dusty shelves stretch into the darkness. One book holds the key.",
+    "items": [
+      { "name": "Leather Journal", "hint": "The ink is faded, talking only of lost cities.", "isSolution": false },
+      { "name": "Silver Compass", "hint": "It doesn't point North, but towards the truth.", "isSolution": true, "solutionText": "The hidden door opens behind the shelf!" },
+      { "name": "Inkwell", "hint": "Empty and dry for decades.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 2,
+    "scene": "The Forgotten Attic",
+    "description": "Cobwebs drape over forgotten heirlooms.",
+    "items": [
+      { "name": "Old Mirror", "hint": "You see a reflection of someone you don't recognize.", "isSolution": false },
+      { "name": "Wooden Music Box", "hint": "The melody reveals a code: 4-2-9.", "isSolution": true, "solutionText": "The safe in the corner clicks open!" },
+      { "name": "Tattered Map", "hint": "It shows a place that no longer exists.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 3,
+    "scene": "The Moonlit Garden",
+    "description": "Silver flowers bloom under the pale light.",
+    "items": [
+      { "name": "Crystal Rose", "hint": "It feels cold to the touch, humming softly.", "isSolution": false },
+      { "name": "Iron Key", "hint": "The teeth of the key match the garden gate.", "isSolution": true, "solutionText": "The gate swings open to the Secret Grove!" },
+      { "name": "Stone Fountain", "hint": "The water flows upwards.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 4,
+    "scene": "The Alchemist's Lab",
+    "description": "Bubbling potions and strange smells fill the air.",
+    "items": [
+      { "name": "Blue Flask", "hint": "It smells like ozone and thunderstorms.", "isSolution": false },
+      { "name": "Gold Scale", "hint": "It weighs the soul, and it finds you honest.", "isSolution": true, "solutionText": "The Philosopher's Stone appears!" },
+      { "name": "Dried Mandrake", "hint": "It looks like a screaming baby.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 5,
+    "scene": "The Sunken Ship",
+    "description": "Water presses in from all sides, bioluminescent fish swim by.",
+    "items": [
+      { "name": "Rusty Anchor", "hint": "Too heavy to move, too old to care.", "isSolution": false },
+      { "name": "Pearl Necklace", "hint": "The pearls glow when you whisper a secret.", "isSolution": true, "solutionText": "The Captain's chest reveals its gold!" },
+      { "name": "Torn Logbook", "hint": "Water has erased the final entry.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 6,
+    "scene": "The Clockwork Tower",
+    "description": "Gears grind and steam hisses everywhere.",
+    "items": [
+      { "name": "Brass Gear", "hint": "A small piece of a much larger machine.", "isSolution": false },
+      { "name": "Winding Key", "hint": "It fits the master clock perfectly.", "isSolution": true, "solutionText": "Time freezes, revealing a hidden path!" },
+      { "name": "Oil Can", "hint": "Just makes things slippery.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 7,
+    "scene": "The Desert Oasis",
+    "description": "A miracle of water in a sea of sand.",
+    "items": [
+      { "name": "Palm Leaf", "hint": "Provides a moment of shade.", "isSolution": false },
+      { "name": "Glass Sphere", "hint": "It shows a vision of a rainstorm.", "isSolution": true, "solutionText": "The oasis expands into a lush forest!" },
+      { "name": "Old Sandals", "hint": "Worn down by a thousand miles.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 8,
+    "scene": "The Frozen Peak",
+    "description": "Wind howls and frost bites the skin.",
+    "items": [
+      { "name": "Ice Shard", "hint": "Sharp enough to cut through shadow.", "isSolution": false },
+      { "name": "Eternal Flame", "hint": "It burns without fuel, warming the soul.", "isSolution": true, "solutionText": "The ice wall melts away!" },
+      { "name": "Fur Cloak", "hint": "Keeps you warm, but doesn't help you find the way.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 9,
+    "scene": "The Shadow Realm",
+    "description": "Light is a memory here, and whispers are real.",
+    "items": [
+      { "name": "Void Lantern", "hint": "It casts shadows of things that aren't there.", "isSolution": false },
+      { "name": "Light Fragment", "hint": "A tiny piece of the sun, blindingly bright.", "isSolution": true, "solutionText": "The shadows retreat, revealing the exit!" },
+      { "name": "Obsidian Blade", "hint": "It cuts through the silence.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 10,
+    "scene": "The Floating Isles",
+    "description": "Grass islands drift in a sapphire sky.",
+    "items": [
+      { "name": "Cloud Feather", "hint": "Lighter than air, it drifts upward.", "isSolution": false },
+      { "name": "Gravity Stone", "hint": "It pulls you toward the center of the world.", "isSolution": true, "solutionText": "You leap across the gap to the Final Isle!" },
+      { "name": "Wind Chime", "hint": "It rings when the storm approaches.", "isSolution": false }
+    ]
+  }
+]

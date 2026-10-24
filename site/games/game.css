@@ -1,0 +1,118 @@
+:root {
+    --bg-color: #1a1a2e;
+    --panel-color: #16213e;
+    --accent-color: #e94560;
+    --text-color: #f1f1f1;
+    --secondary-text: #999;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#game-container {
+    width: 90%;
+    max-width: 600px;
+    background-color: var(--panel-color);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+#progress {
+    font-weight: bold;
+    color: var(--accent-color);
+}
+
+#scene-display h2 {
+    margin-bottom: 0.5rem;
+}
+
+#scene-description {
+    color: var(--secondary-text);
+    margin-bottom: 2rem;
+}
+
+#items-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.item-card {
+    background: #0f3460;
+    padding: 1rem;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.item-card:hover {
+    border-color: var(--accent-color);
+    transform: translateY(-5px);
+}
+
+.item-card.selected {
+    background: var(--accent-color);
+    color: white;
+}
+
+#hint-display {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: rgba(233, 69, 96, 0.1);
+    border-left: 4px solid var(--accent-color);
+    text-align: left;
+}
+
+.hidden {
+    display: none !important;
+}
+
+#solution-container {
+    animation: fadeIn 0.5s ease;
+}
+
+.success-message {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4caf50;
+    margin-bottom: 1rem;
+}
+
+#next-btn {
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: opacity 0.2s;
+}
+
+#next-btn:hover {
+    opacity: 0.8;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
