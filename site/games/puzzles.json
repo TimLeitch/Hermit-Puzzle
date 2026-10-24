@@ -98,5 +98,905 @@
       { "name": "Gravity Stone", "hint": "It pulls you toward the center of the world.", "isSolution": true, "solutionText": "You leap across the gap to the Final Isle!" },
       { "name": "Wind Chime", "hint": "It rings when the storm approaches.", "isSolution": false }
     ]
+  },
+  {
+    "id": 11,
+    "scene": "The Steam City",
+    "description": "Copper pipes hiss and brass automatons roam.",
+    "items": [
+      { "name": "Pressure Gauge", "hint": "The needle is shaking violently.", "isSolution": false },
+      { "name": "Master Valve", "hint": "Turning this releases the city's heart.", "isSolution": true, "solutionText": "The steam clears, revealing a golden bridge!" },
+      { "name": "Wrench", "hint": "Too small for these massive pipes.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 12,
+    "scene": "The Emerald Jungle",
+    "description": "Giant ferns hide predatory vines.",
+    "items": [
+      { "name": "Glowing Orchid", "hint": "It pulses with a hypnotic rhythm.", "isSolution": false },
+      { "name": "Jaguar Tooth", "hint": "It fits a slot in the jungle temple.", "isSolution": true, "solutionText": "The temple doors grind open!" },
+      { "name": "Machete", "hint": "It's dull from too much use.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 13,
+    "scene": "The Void Station",
+    "description": "A lonely outpost at the edge of existence.",
+    "items": [
+      { "name": "Data Pad", "hint": "Corrupted files. Only static remains.", "isSolution": false },
+      { "name": "Quantum Key", "hint": "It exists in two places at once.", "isSolution": true, "solutionText": "The airlock opens to a new dimension!" },
+      { "name": "Oxygen Tank", "hint": "Almost empty. Hurry.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 14,
+    "scene": "The Crystal Cave",
+    "description": "Prismatic shards reflect a thousand versions of you.",
+    "items": [
+      { "name": "Quartz Spike", "hint": "It vibrates at a frequency that hurts the ears.", "isSolution": false },
+      { "name": "Prism Lens", "hint": "It focuses the light into a single beam.", "isSolution": true, "solutionText": "The beam shatters the cave wall!" },
+      { "name": "Cave Moss", "hint": "Soft and glowing, but useless.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 15,
+    "scene": "The Haunted Theater",
+    "description": "Velvet curtains hide ghosts of past performances.",
+    "items": [
+      { "name": "Broken Mask", "hint": "A tragic face frozen in porcelain.", "isSolution": false },
+      { "name": "Golden Script", "hint": "The lines describe exactly what you are doing now.", "isSolution": true, "solutionText": "The ghosts applaud as the curtain rises!" },
+      { "name": "Spotlight", "hint": "The bulb is burnt out.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 16,
+    "scene": "The Coral Reef",
+    "description": "A vibrant city of polyps and neon fish.",
+    "items": [
+      { "name": "Sea Shell", "hint": "You hear the sound of a distant war.", "isSolution": false },
+      { "name": "Triton's Horn", "hint": "A blast from this controls the tides.", "isSolution": true, "solutionText": "The ocean parts, revealing a path to Atlantis!" },
+      { "name": "Sand Dollar", "hint": "A simple treasure from the deep.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 17,
+    "scene": "The Obsidian Forge",
+    "description": "Black rock and rivers of liquid fire.",
+    "items": [
+      { "name": "Lava Bucket", "hint": "Too hot to hold for long.", "isSolution": false },
+      { "name": "Cooling Rune", "hint": "It freezes the magma instantly.", "isSolution": true, "solutionText": "A bridge of solid stone forms across the lava!" },
+      { "name": "Hammers", "hint": "Too heavy for a human to lift.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 18,
+    "scene": "The Neon Slums",
+    "description": "Cybernetic upgrades and holographic rain.",
+    "items": [
+      { "name": "Broken Neural Link", "hint": "It sparks with fragmented memories.", "isSolution": false },
+      { "name": "Admin Access Chip", "hint": "It bypasses the city's central firewall.", "isSolution": true, "solutionText": "The city's holographic sky turns gold!" },
+      { "name": "Synth-Noodle Bowl", "hint": "Tastes like plastic and electricity.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 19,
+    "scene": "The Whispering Woods",
+    "description": "The trees move when you aren't looking.",
+    "items": [
+      { "name": "Silver Bell", "hint": "Its ring calms the angry spirits.", "isSolution": false },
+      { "name": "Ancient Seed", "hint": "Planting this creates a path of light.", "isSolution": true, "solutionText": "A giant beanstalk grows, lifting you to the clouds!" },
+      { "name": "Wooden Flute", "hint": "The notes attract only crows.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 20,
+    "scene": "The Ivory Tower",
+    "description": "The pinnacle of magic and arrogance.",
+    "items": [
+      { "name": "Crystal Ball", "hint": "It shows the end of the world.", "isSolution": false },
+      { "name": "Scepter of Command", "hint": "It compels the tower's guardians to kneel.", "isSolution": true, "solutionText": "The Master's chamber opens to you!" },
+      { "name": "Silk Robe", "hint": "Expensive, but offers no protection.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 21,
+    "scene": "The Rusty Junkyard",
+    "description": "Mountains of scrap and forgotten machines.",
+    "items": [
+      { "name": "Bent Pipe", "hint": "It looks like a makeshift tool.", "isSolution": false },
+      { "name": "Magnetized Core", "hint": "It pulls all the scrap into a single point.", "isSolution": true, "solutionText": "A hidden vault is uncovered from the rubble!" },
+      { "name": "Old Tire", "hint": "Flat and smelling of rubber.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 22,
+    "scene": "The Marble Hall",
+    "description": "Echoing footsteps and silent statues.",
+    "items": [
+      { "name": "Laurel Wreath", "hint": "A symbol of a victory long forgotten.", "isSolution": false },
+      { "name": "Golden Lyre", "hint": "The music makes the statues dance.", "isSolution": true, "solutionText": "The statues move aside, revealing the exit!" },
+      { "name": "Clay Tablet", "hint": "Written in a language of geometric shapes.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 23,
+    "scene": "The Gloom Swamp",
+    "description": "Thick fog and bubbling green mud.",
+    "items": [
+      { "name": "Will-o'-Wisp", "hint": "It leads you in circles.", "isSolution": false },
+      { "name": "Purifying Salt", "hint": "It clears the toxic fog instantly.", "isSolution": true, "solutionText": "The path to the Swamp Temple is revealed!" },
+      { "name": "Muddy Boot", "hint": "Soggy and smelling of decay.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 24,
+    "scene": "The Astral Plane",
+    "description": "Floating thoughts and shimmering constellations.",
+    "items": [
+      { "name": "Star Shard", "hint": "It tastes like cold vacuum.", "isSolution": false },
+      { "name": "Thought Weaver", "hint": "It knits the fragments of reality together.", "isSolution": true, "solutionText": "You manifest a bridge back to the physical world!" },
+      { "name": "Cosmic Dust", "hint": "It tickles your nose.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 25,
+    "scene": "The Iron Bastion",
+    "description": "A fortress designed to never fall.",
+    "items": [
+      { "name": "Heavy Shield", "hint": "It can block a dragon's breath.", "isSolution": false },
+      { "name": "Secret Passcode", "hint": "A whisper in the ear of the sentinel.", "isSolution": true, "solutionText": "The main gate opens without a fight!" },
+      { "name": "Chainmail", "hint": "It's too tight around the chest.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 26,
+    "scene": "The Mirror Maze",
+    "description": "Infinite reflections and confusing angles.",
+    "items": [
+      { "name": "Silver Powder", "hint": "It coats the glass, revealing the real path.", "isSolution": true, "solutionText": "The illusions vanish, showing the way out!" },
+      { "name": "Hand Mirror", "hint": "It just shows another mirror.", "isSolution": false },
+      { "name": "Glass Shard", "hint": "A dangerous reminder of a broken wall.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 27,
+    "scene": "The Dragon's Hoard",
+    "description": "Gold coins as far as the eye can see.",
+    "items": [
+      { "name": "Diamond Crown", "hint": "Tempting, but it carries a curse of greed.", "isSolution": false },
+      { "name": "Soothed Scale", "hint": "Rubbing this puts the dragon to sleep.", "isSolution": true, "solutionText": "You sneak past the beast to the exit!" },
+      { "name": "Gold Goblet", "hint": "A finely crafted piece of jewelry.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 28,
+    "scene": "The Wind-Swept Plains",
+    "description": "Grass that bends in a rhythmic dance.",
+    "items": [
+      { "name": "Kite", "hint": "It pulls you toward the horizon.", "isSolution": false },
+      { "name": "Sky Whistle", "hint": "The sound summons a gentle breeze.", "isSolution": true, "solutionText": "The wind pushes you rapidly toward the city!" },
+      { "name": "Tumbleweed", "hint": "Just a dry ball of thorns.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 29,
+    "scene": "The Midnight Market",
+    "description": "Deals made in shadows and currency of memories.",
+    "items": [
+      { "name": "Bottle of Sighs", "hint": "It contains the sadness of a thousand years.", "isSolution": false },
+      { "name": "Forgotten Name", "hint": "The merchant trades the exit for this memory.", "isSolution": true, "solutionText": "The merchant bows and reveals the hidden door!" },
+      { "name": "Strange Coin", "hint": "It has no value in any known kingdom.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 30,
+    "scene": "The Coral Cathedral",
+    "description": "Spires of calcium and singing whales.",
+    "items": [
+      { "name": "Sea Glass", "hint": "Smooth and frosted by the currents.", "isSolution": false },
+      { "name": "Abyssal Pearl", "hint": "Its light reveals the path to the deep.", "isSolution": true, "solutionText": "The cathedral doors open to the abyss!" },
+      { "name": "Fish Bone", "hint": "A relic of a prehistoric predator.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 31,
+    "scene": "The Steam Engine",
+    "description": "Pistons pump and coal burns hot.",
+    "items": [
+      { "name": "Coal Shovel", "hint": "Used to feed the beast.", "isSolution": false },
+      { "name": "Pressure Valve", "hint": "Tuning this prevents the explosion.", "isSolution": true, "solutionText": "The engine stabilizes, powering the lift!" },
+      { "name": "Copper Pipe", "hint": "Leaking steam and smelling of sulfur.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 32,
+    "scene": "The Hidden Grotto",
+    "description": "A sanctuary of glowing fungi and clear water.",
+    "items": [
+      { "name": "Luminous Spore", "hint": "It lights up the dark corners.", "isSolution": false },
+      { "name": "Crystal Reed", "hint": "Playing it summons the water spirit.", "isSolution": true, "solutionText": "The water spirit guides you to the surface!" },
+      { "name": "Smooth Pebble", "hint": "Perfect for skipping on a lake.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 33,
+    "scene": "The Clockwork Heart",
+    "description": "The center of a mechanical world.",
+    "items": [
+      { "name": "Small Spring", "hint": "Too weak to move the main gear.", "isSolution": false },
+      { "name": "Golden Mainspring", "hint": "The core of the world's timing.", "isSolution": true, "solutionText": "The world resumes its rotation!" },
+      { "name": "Ticking Watch", "hint": "It's running five minutes slow.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 34,
+    "scene": "The Sandstorm Ruins",
+    "description": "Pillars buried in shifting dunes.",
+    "items": [
+      { "name": "Dried Gourd", "hint": "Contains a few drops of bitter water.", "isSolution": false },
+      { "name": "Ancient Seal", "hint": "It matches the indentation on the ruin wall.", "isSolution": true, "solutionText": "The sand drains away, revealing a stairway!" },
+      { "name": "Scarab Beetle", "hint": "It crawls purposefully toward the east.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 35,
+    "scene": "The Prism Tower",
+    "description": "A spire that splits white light into colors.",
+    "items": [
+      { "name": "Red Glass", "hint": "Shows only the heat of the room.", "isSolution": false },
+      { "name": "White Diamond", "hint": "It recombines the colors into a laser.", "isSolution": true, "solutionText": "The laser cuts through the tower's lock!" },
+      { "name": "Blue Filter", "hint": "Makes everything look underwater.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 36,
+    "scene": "The Echo Chamber",
+    "description": "Every sound is repeated a hundred times.",
+    "items": [
+      { "name": "Tuning Fork", "hint": "It creates a piercing, steady tone.", "isSolution": false },
+      { "name": "Silent Bell", "hint": "It absorbs all sound around it.", "isSolution": true, "solutionText": "The silence reveals a secret frequency!" },
+      { "name": "Metal Bowl", "hint": "It rings with a hollow sound.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 37,
+    "scene": "The Gravity Well",
+    "description": "Objects fall upward and sideways.",
+    "items": [
+      { "name": "Lead Weight", "hint": "It's the only thing staying on the ground.", "isSolution": false },
+      { "name": "Anti-Grav Belt", "hint": "It lets you walk on the ceiling.", "isSolution": true, "solutionText": "You reach the exit on the ceiling!" },
+      { "name": "Floating Orb", "hint": "It drifts aimlessly in the air.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 38,
+    "scene": "The Dreamscape",
+    "description": "Floating clocks and melting buildings.",
+    "items": [
+      { "name": "Soft Pillow", "hint": "It makes you want to sleep forever.", "isSolution": false },
+      { "name": "Wake-up Call", "hint": "A loud alarm that breaks the illusion.", "isSolution": true, "solutionText": "You wake up and find the real exit!" },
+      { "name": "Glass Eye", "hint": "It sees things that aren't there.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 39,
+    "scene": "The Iron Maze",
+    "description": "Cold walls and shifting corridors.",
+    "items": [
+      { "name": "Rusty Nail", "hint": "A useless piece of metal.", "isSolution": false },
+      { "name": "Magnetized Chalk", "hint": "It sticks to the walls that are fake.", "isSolution": true, "solutionText": "You find the hidden passage through the wall!" },
+      { "name": "Oil Lamp", "hint": "The flame flickers in a draft.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 40,
+    "scene": "The Solar Forge",
+    "description": "Harnessing the power of a dying star.",
+    "items": [
+      { "name": "Cooling Rod", "hint": "Prevents the forge from melting.", "isSolution": false },
+      { "name": "Solar Lens", "hint": "It focuses the star's heat into a point.", "isSolution": true, "solutionText": "The lens welds the final piece of the puzzle!" },
+      { "name": "Burned Glove", "hint": "Worn out and blackened.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 41,
+    "scene": "The Paper City",
+    "description": "Buildings made of origami and ink.",
+    "items": [
+      { "name": "Ink Blot", "hint": "It looks like a Rorschach test.", "isSolution": false },
+      { "name": "Golden Folder", "hint": "It contains the blueprints of the city.", "isSolution": true, "solutionText": "You find the map to the center!" },
+      { "name": "Paper Clip", "hint": "Holds two pages together.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 42,
+    "scene": "The Thunder Plains",
+    "description": "Static electricity makes your hair stand up.",
+    "items": [
+      { "name": "Rubber Boot", "hint": "Protects you from the ground shocks.", "isSolution": false },
+      { "name": "Lightning Rod", "hint": "It attracts the bolt to the right spot.", "isSolution": true, "solutionText": "The bolt powers the ancient machine!" },
+      { "name": "Copper Wire", "hint": "It hums with energy.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 43,
+    "scene": "The Velvet Lounge",
+    "description": "Jazz music and dim red lights.",
+    "items": [
+      { "name": "Crystal Glass", "hint": "Contains a drink that tastes like memories.", "isSolution": false },
+      { "name": "Silver Saxophone", "hint": "The notes unlock the secret door.", "isSolution": true, "solutionText": "The wall slides open to a private room!" },
+      { "name": "Cigarette Case", "hint": "Empty and smelling of old tobacco.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 44,
+    "scene": "The Frost Garden",
+    "description": "Flowers made of ice and frozen wind.",
+    "items": [
+      { "name": "Ice Lily", "hint": "Beautiful but fragile.", "isSolution": false },
+      { "name": "Warm Ember", "hint": "A tiny piece of coal that never goes out.", "isSolution": true, "solutionText": "The ice garden melts, revealing the path!" },
+      { "name": "Silver Sleigh", "hint": "Too big to move through the flowers.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 45,
+    "scene": "The Void Library",
+    "description": "Books with blank pages that write themselves.",
+    "items": [
+      { "name": "Ghost Pen", "hint": "It writes in a language you can't read.", "isSolution": false },
+      { "name": "Reading Glasses", "hint": "They allow you to see the invisible ink.", "isSolution": true, "solutionText": "The pages reveal the secret exit!" },
+      { "name": "Book Mark", "hint": "A simple piece of ribbon.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 46,
+    "scene": "The Amber Forest",
+    "description": "Trees dripping with golden sap.",
+    "items": [
+      { "name": "Trapped Fly", "hint": "A prehistoric insect frozen in time.", "isSolution": false },
+      { "name": "Amber Key", "hint": "It matches the lock on the Great Tree.", "isSolution": true, "solutionText": "The Great Tree opens its hollow trunk!" },
+      { "name": "Pine Cone", "hint": "Rough and smelling of resin.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 47,
+    "scene": "The Cobalt Coast",
+    "description": "Deep blue sands and turquoise waves.",
+    "items": [
+      { "name": "Blue Shell", "hint": "It echoes the sound of the deep.", "isSolution": false },
+      { "name": "Sunken Coin", "hint": "A coin from a city that never existed.", "isSolution": true, "solutionText": "The coin activates the tide-gate!" },
+      { "name": "Seaweed", "hint": "Slippery and smelling of salt.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 48,
+    "scene": "The Marble Quarry",
+    "description": "Huge blocks of white stone and dust.",
+    "items": [
+      { "name": "Chisel", "hint": "Used to shape the stone.", "isSolution": false },
+      { "name": "Golden Ratio", "hint": "A tool that finds the perfect cut.", "isSolution": true, "solutionText": "The stone splits perfectly, revealing a cave!" },
+      { "name": "Dust Mask", "hint": "Keeps the white powder out of your lungs.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 49,
+    "scene": "The Neon Cathedral",
+    "description": "Digital stained glass and electronic hymns.",
+    "items": [
+      { "name": "Circuit Board", "hint": "A fragment of a forgotten god.", "isSolution": false },
+      { "name": "Master Plugin", "hint": "It syncs the hymns into a single chord.", "isSolution": true, "solutionText": "The digital doors open to the cloud!" },
+      { "name": "Fiber Optic Cable", "hint": "Glowing with pulsing data.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 50,
+    "scene": "The Clockwork Maze",
+    "description": "Walls that rotate every sixty seconds.",
+    "items": [
+      { "name": "Small Gear", "hint": "Too small to jam the mechanism.", "isSolution": false },
+      { "name": "Chronos Key", "hint": "It stops the walls from moving.", "isSolution": true, "solutionText": "The maze stays still, showing the way out!" },
+      { "name": "Stopwatch", "hint": "It counts down to the next shift.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 51,
+    "scene": "The Onyx Vault",
+    "description": "Black walls and a floor of polished obsidian.",
+    "items": [
+      { "name": "Silver Candle", "hint": "The light is swallowed by the walls.", "isSolution": false },
+      { "name": "White Diamond", "hint": "Its brilliance pierces the absolute dark.", "isSolution": true, "solutionText": "The exit is illuminated!" },
+      { "name": "Iron Lock", "hint": "A heavy, rusted piece of metal.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 52,
+    "scene": "The Cloud City",
+    "description": "Buildings made of condensed vapor.",
+    "items": [
+      { "name": "Wind-Sails", "hint": "They catch the breeze, but not enough.", "isSolution": false },
+      { "name": "Storm Core", "hint": "It creates a localized updraft.", "isSolution": true, "solutionText": "You are lifted to the High Spire!" },
+      { "name": "Cotton Candy", "hint": "Tastes like the clouds look.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 53,
+    "scene": "The Rust Garden",
+    "description": "Metallic flowers and oxidized vines.",
+    "items": [
+      { "name": "Iron Rose", "hint": "Hard and cold to the touch.", "isSolution": false },
+      { "name": "Polish Cloth", "hint": "It removes the rust from the hidden lever.", "isSolution": true, "solutionText": "The lever moves, opening the gate!" },
+      { "name": "Steel Leaf", "hint": "Sharp enough to cut paper.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 54,
+    "scene": "The Mirror Lake",
+    "description": "The water is a perfect reflection of the sky.",
+    "items": [
+      { "name": "Fishing Rod", "hint": "You only catch reflections of fish.", "isSolution": false },
+      { "name": "Pebble of Truth", "hint": "It breaks the reflection, showing the bottom.", "isSolution": true, "solutionText": "A sunken city is revealed beneath!" },
+      { "name": "Glass Boat", "hint": "It's almost invisible on the water.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 55,
+    "scene": "The Shadow Theater",
+    "description": "Puppets that move without strings.",
+    "items": [
+      { "name": "Wooden Puppet", "hint": "It mimics your movements.", "isSolution": false },
+      { "name": "Bright Lantern", "hint": "The light reveals the puppet master.", "isSolution": true, "solutionText": "The master is forced to open the exit!" },
+      { "name": "Velvet Curtain", "hint": "Thick and smelling of dust.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 56,
+    "scene": "The Lava Lake",
+    "description": "Heat that ripples the air and molten rock.",
+    "items": [
+      { "name": "Obsidian Plank", "hint": "It floats on the lava for a moment.", "isSolution": false },
+      { "name": "Frost Rune", "hint": "It freezes a path across the lake.", "isSolution": true, "solutionText": "You walk safely to the other side!" },
+      { "name": "Fireproof Suit", "hint": "Hot, but you aren't burning.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 57,
+    "scene": "The Neon Alley",
+    "description": "Holographic ads and rain-slicked chrome.",
+    "items": [
+      { "name": "Broken Drone", "hint": "Its lights flicker in a pattern.", "isSolution": false },
+      { "name": "Override Key", "hint": "It shuts down the security bots.", "isSolution": true, "solutionText": "The alleyway opens to the main city!" },
+      { "name": "Synth-Cigarette", "hint": "It glows with a soft blue light.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 58,
+    "scene": "The Crystal Spire",
+    "description": "A tower that reaches above the clouds.",
+    "items": [
+      { "name": "Glass Stair", "hint": "Slippery and transparent.", "isSolution": false },
+      { "name": "Focusing Prism", "hint": "It redirects the light to the top.", "isSolution": true, "solutionText": "The elevator activates!" },
+      { "name": "Crystal Flute", "hint": "The music vibrates the walls.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 59,
+    "scene": "The Whispering Hall",
+    "description": "Walls that repeat your secrets.",
+    "items": [
+      { "name": "Earplugs", "hint": "You can't hear the whispers, but they are still there.", "isSolution": false },
+      { "name": "Truth Stone", "hint": "It forces the walls to speak the truth.", "isSolution": true, "solutionText": "The walls tell you the exit is behind the painting!" },
+      { "name": "Ancient Scroll", "hint": "Written in a language of sighs.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 60,
+    "scene": "The Gravity Room",
+    "description": "Furniture floats and water drips up.",
+    "items": [
+      { "name": "Heavy Boots", "hint": "They keep you grounded.", "isSolution": false },
+      { "name": "Gravity Switch", "hint": "It flips the room upside down.", "isSolution": true, "solutionText": "The exit is now on the floor!" },
+      { "name": "Floating Book", "hint": "The pages flip on their own.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 61,
+    "scene": "The Steam Vault",
+    "description": "Hissing pipes and brass locks.",
+    "items": [
+      { "name": "Wrench", "hint": "Good for tightening, not for unlocking.", "isSolution": false },
+      { "name": "Pressure Key", "hint": "It balances the steam pressure.", "isSolution": true, "solutionText": "The vault door hisses open!" },
+      { "name": "Oil Can", "hint": "Makes the gears turn smoother.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 62,
+    "scene": "The Emerald Grove",
+    "description": "Glowing trees and singing birds.",
+    "items": [
+      { "name": "Green Leaf", "hint": "A simple, beautiful leaf.", "isSolution": false },
+      { "name": "Spirit Seed", "hint": "Planting this grows a bridge.", "isSolution": true, "solutionText": "A bridge of vines leads to the next area!" },
+      { "name": "Wooden Staff", "hint": "A sturdy piece of oak.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 63,
+    "scene": "The Void Temple",
+    "description": "A place where nothing exists, yet everything is.",
+    "items": [
+      { "name": "Empty Box", "hint": "It contains the essence of nothing.", "isSolution": false },
+      { "name": "Singularity Core", "hint": "It pulls the temple back into existence.", "isSolution": true, "solutionText": "The temple solidifies, revealing the door!" },
+      { "name": "Shadow Cloak", "hint": "Makes you blend into the void.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 64,
+    "scene": "The Crystal Mine",
+    "description": "Walls of amethyst and quartz.",
+    "items": [
+      { "name": "Pickaxe", "hint": "It chips the crystals, but slowly.", "isSolution": false },
+      { "name": "Resonance Hammer", "hint": "A single strike shatters the wall.", "isSolution": true, "solutionText": "The wall collapses, showing a secret tunnel!" },
+      { "name": "Mining Lamp", "hint": "Provides a steady white light.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 65,
+    "scene": "The Haunted Opera",
+    "description": "Ghostly music and floating costumes.",
+    "items": [
+      { "name": "Silk Glove", "hint": "A delicate piece of fabric.", "isSolution": false },
+      { "name": "Opera Glass", "hint": "It reveals the ghost in the balcony.", "isSolution": true, "solutionText": "The ghost points to the secret exit!" },
+      { "name": "Broken Violin", "hint": "The strings are snapped.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 66,
+    "scene": "The Coral Palace",
+    "description": "Spires of pearlescent shell.",
+    "items": [
+      { "name": "Sea Sponge", "hint": "Absorbs water and light.", "isSolution": false },
+      { "name": "Royal Trident", "hint": "It commands the palace guards.", "isSolution": true, "solutionText": "The guards step aside, letting you pass!" },
+      { "name": "Starfish", "hint": "A slow-moving companion.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 67,
+    "scene": "The Obsidian Forge",
+    "description": "Lava rivers and black stone.",
+    "items": [
+      { "name": "Fire Tongs", "hint": "Used to hold hot metal.", "isSolution": false },
+      { "name": "Cooling Rune", "hint": "It turns lava into solid stone.", "isSolution": true, "solutionText": "You create a bridge to the other side!" },
+      { "name": "Ash Pile", "hint": "Remnants of a failed experiment.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 68,
+    "scene": "The Cyber Slums",
+    "description": "Neon signs and rusted metal.",
+    "items": [
+      { "name": "Data Chip", "hint": "Contains fragmented code.", "isSolution": false },
+      { "name": "Admin Key", "hint": "It opens all the locked doors in the alley.", "isSolution": true, "solutionText": "The security gate opens!" },
+      { "name": "Laser Pointer", "hint": "A toy from a better era.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 69,
+    "scene": "The Spirit Forest",
+    "description": "Glowing deer and whispering leaves.",
+    "items": [
+      { "name": "Silver Flute", "hint": "The music calms the forest.", "isSolution": false },
+      { "name": "Spirit Lantern", "hint": "It reveals the hidden path through the trees.", "isSolution": true, "solutionText": "The path to the Spirit Tree appears!" },
+      { "name": "Mossy Rock", "hint": "A soft place to rest.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 70,
+    "scene": "The Ivory Citadel",
+    "description": "Pure white walls and golden domes.",
+    "items": [
+      { "name": "White Feather", "hint": "A sign of purity.", "isSolution": false },
+      { "name": "Citadel Seal", "hint": "It proves you are an ally.", "isSolution": true, "solutionText": "The guards welcome you inside!" },
+      { "name": "Gold Coin", "hint": "A common currency here.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 71,
+    "scene": "The Junk Heap",
+    "description": "Mountains of scrap and old TVs.",
+    "items": [
+      { "name": "Broken Remote", "hint": "Buttons are missing.", "isSolution": false },
+      { "name": "Magnetic Core", "hint": "It pulls the right piece of scrap to you.", "isSolution": true, "solutionText": "You find a hidden key in the pile!" },
+      { "name": "Old Battery", "hint": "Leaking acid and smelling of sulfur.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 72,
+    "scene": "The Marble Gallery",
+    "description": "Statues of heroes and poets.",
+    "items": [
+      { "name": "Clay Tablet", "hint": "A list of ancient names.", "isSolution": false },
+      { "name": "Golden Harp", "hint": "The music makes the statues move.", "isSolution": true, "solutionText": "The statues form a bridge for you!" },
+      { "name": "Stone Chisel", "hint": "Used for carving.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 73,
+    "scene": "The Foggy Mire",
+    "description": "Green water and thick mist.",
+    "items": [
+      { "name": "Muddy Branch", "hint": "Used to probe the ground.", "isSolution": false },
+      { "name": "Wind Fan", "hint": "It blows the fog away.", "isSolution": true, "solutionText": "The path to the swamp temple is clear!" },
+      { "name": "Rusty Hook", "hint": "Used for fishing in the mire.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 74,
+    "scene": "The Astral Void",
+    "description": "Floating stars and purple nebulae.",
+    "items": [
+      { "name": "Star Fragment", "hint": "A piece of a dead sun.", "isSolution": false },
+      { "name": "Cosmic Anchor", "hint": "It stabilizes your position in the void.", "isSolution": true, "solutionText": "You can now walk to the floating island!" },
+      { "name": "Void Dust", "hint": "It disappears when you touch it.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 75,
+    "scene": "The Steel Keep",
+    "description": "Cold metal walls and heavy doors.",
+    "items": [
+      { "name": "Heavy Key", "hint": "It's too large for these locks.", "isSolution": false },
+      { "name": "Security Pass", "hint": "It grants access to the inner sanctum.", "isSolution": true, "solutionText": "The heavy doors slide open!" },
+      { "name": "Iron Spike", "hint": "A weapon of war.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 76,
+    "scene": "The Glass Garden",
+    "description": "Flowers that shatter if touched.",
+    "items": [
+      { "name": "Glass Rose", "hint": "Beautiful and sharp.", "isSolution": false },
+      { "name": "Soft Glove", "hint": "Allows you to touch the flowers safely.", "isSolution": true, "solutionText": "You find a key hidden inside a glass lily!" },
+      { "name": "Glass Watering Can", "hint": "It's empty and fragile.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 77,
+    "scene": "The Gold Vault",
+    "description": "Coins and jewels everywhere.",
+    "items": [
+      { "name": "Diamond Ring", "hint": "A precious piece of jewelry.", "isSolution": false },
+      { "name": "Sleeping Powder", "hint": "It puts the vault guardian to sleep.", "isSolution": true, "solutionText": "You sneak past the guardian to the exit!" },
+      { "name": "Gold Bar", "hint": "Heavy and shiny.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 78,
+    "scene": "The Windy Peak",
+    "description": "Strong gusts and thin air.",
+    "items": [
+      { "name": "Heavy Coat", "hint": "Keeps you warm, but doesn't stop the wind.", "isSolution": false },
+      { "name": "Wind-Sleeve", "hint": "It captures the wind to push you forward.", "isSolution": true, "solutionText": "You are launched across the chasm!" },
+      { "name": "Small Rock", "hint": "It's blown away instantly.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 79,
+    "scene": "The Shadow Market",
+    "description": "Trading secrets for souls.",
+    "items": [
+      { "name": "Bottle of Tears", "hint": "A currency of sorrow.", "isSolution": false },
+      { "name": "True Name", "hint": "The merchant trades the exit for this secret.", "isSolution": true, "solutionText": "The merchant reveals the hidden door!" },
+      { "name": "Void Coin", "hint": "It vanishes when you look at it.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 80,
+    "scene": "The Pearl Grotto",
+    "description": "Shimmering walls and soft light.",
+    "items": [
+      { "name": "Sea Glass", "hint": "Smooth and frosted.", "isSolution": false },
+      { "name": "Giant Pearl", "hint": "Its glow reveals a hidden lever.", "isSolution": true, "solutionText": "The lever opens the grotto's exit!" },
+      { "name": "Sponge", "hint": "Absorbs the water around it.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 81,
+    "scene": "The Steam City",
+    "description": "Pipes and pistons everywhere.",
+    "items": [
+      { "name": "Pressure Valve", "hint": "It's leaking steam.", "isSolution": false },
+      { "name": "Master Wrench", "hint": "It fits the main valve perfectly.", "isSolution": true, "solutionText": "The steam clears, showing the way!" },
+      { "name": "Copper Bolt", "hint": "A small piece of scrap.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 82,
+    "scene": "The Neon Forest",
+    "description": "Bioluminescent plants and electric bugs.",
+    "items": [
+      { "name": "Glowing Leaf", "hint": "It pulses with a soft light.", "isSolution": false },
+      { "name": "Tesla Coil", "hint": "It powers the ancient forest gate.", "isSolution": true, "solutionText": "The gate sparks to life and opens!" },
+      { "name": "Electric Bug", "hint": "It shocks you if you touch it.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 83,
+    "scene": "The Void Station",
+    "description": "Cold metal and blinking lights.",
+    "items": [
+      { "name": "Broken Radio", "hint": "Only static and whispers.", "isSolution": false },
+      { "name": "Command Code", "hint": "It unlocks the station's airlock.", "isSolution": true, "solutionText": "The airlock opens to the stars!" },
+      { "name": "Empty Fuel Cell", "hint": "It's dead and useless.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 84,
+    "scene": "The Crystal Cave",
+    "description": "Sparkling walls and deep echoes.",
+    "items": [
+      { "name": "Quartz Shard", "hint": "Sharp and clear.", "isSolution": false },
+      { "name": "Prism Stone", "hint": "It bends the light to reveal the exit.", "isSolution": true, "solutionText": "A beam of light points the way!" },
+      { "name": "Cave Bat", "hint": "It flies away when you approach.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 85,
+    "scene": "The Haunted Theater",
+    "description": "Empty seats and a lonely stage.",
+    "items": [
+      { "name": "Old Program", "hint": "A list of plays from a century ago.", "isSolution": false },
+      { "name": "Golden Mask", "hint": "Wearing it makes the ghosts appear.", "isSolution": true, "solutionText": "The ghosts guide you to the secret door!" },
+      { "name": "Stage Prop", "hint": "A fake sword made of wood.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 86,
+    "scene": "The Coral City",
+    "description": "Bubbles and schools of neon fish.",
+    "items": [
+      { "name": "Sea Shell", "hint": "It whispers of the deep.", "isSolution": false },
+      { "name": "Ocean Key", "hint": "It unlocks the city's main gate.", "isSolution": true, "solutionText": "The gate opens to the Royal Palace!" },
+      { "name": "Sand Dollar", "hint": "A simple beach treasure.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 87,
+    "scene": "The Fire Forge",
+    "description": "Hammers hitting hot iron.",
+    "items": [
+      { "name": "Burning Coal", "hint": "Too hot to hold.", "isSolution": false },
+      { "name": "Ice Rune", "hint": "It cools the metal instantly.", "isSolution": true, "solutionText": "The metal hardens into a key!" },
+      { "name": "Leather Apron", "hint": "Protects you from sparks.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 88,
+    "scene": "The Chrome City",
+    "description": "Reflective walls and flying cars.",
+    "items": [
+      { "name": "Laser Tool", "hint": "Used for precision cutting.", "isSolution": false },
+      { "name": "System Override", "hint": "It shuts down the city's security.", "isSolution": true, "solutionText": "The main terminal opens!" },
+      { "name": "Synth-Coffee", "hint": "Tastes like electricity.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 89,
+    "scene": "The Spirit Grove",
+    "description": "Trees that glow with a soft blue light.",
+    "items": [
+      { "name": "Silver Bell", "hint": "Its ring is peaceful.", "isSolution": false },
+      { "name": "Ancient Seed", "hint": "Planting this grows a path of light.", "isSolution": true, "solutionText": "The path leads to the Spirit Tree!" },
+      { "name": "Glowing Mushroom", "hint": "It tastes like mint and ozone.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 90,
+    "scene": "The Ivory Tower",
+    "description": "The peak of magical knowledge.",
+    "items": [
+      { "name": "Magic Wand", "hint": "It sparks, but nothing happens.", "isSolution": false },
+      { "name": "Master Tome", "hint": "It contains the spell to open the exit.", "isSolution": true, "solutionText": "The tower walls vanish, leaving you free!" },
+      { "name": "Crystal Ball", "hint": "It shows a cloudy future.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 91,
+    "scene": "The Scrap Yard",
+    "description": "Mountains of old computers and wires.",
+    "items": [
+      { "name": "Old Keyboard", "hint": "Most of the keys are missing.", "isSolution": false },
+      { "name": "Power Cell", "hint": "It powers up the old crane.", "isSolution": true, "solutionText": "The crane lifts you over the wall!" },
+      { "name": "Broken Screen", "hint": "It's cracked and dark.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 92,
+    "scene": "The Marble Hall",
+    "description": "Statues that seem to watch you.",
+    "items": [
+      { "name": "Stone Tablet", "hint": "Written in a forgotten tongue.", "isSolution": false },
+      { "name": "Golden Lyre", "hint": "The music makes the statues move.", "isSolution": true, "solutionText": "The statues form a door!" },
+      { "name": "Silk Ribbon", "hint": "A simple decoration.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 93,
+    "scene": "The Muddy Marsh",
+    "description": "Thick sludge and croaking frogs.",
+    "items": [
+      { "name": "Wooden Pole", "hint": "Used for walking in the mud.", "isSolution": false },
+      { "name": "Purifying Salt", "hint": "It clears the toxic water.", "isSolution": true, "solutionText": "The path to the marsh temple is clear!" },
+      { "name": "Rusty Hook", "hint": "Good for fishing.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 94,
+    "scene": "The Star Void",
+    "description": "Floating debris and distant galaxies.",
+    "items": [
+      { "name": "Space Dust", "hint": "It shimmers like diamonds.", "isSolution": false },
+      { "name": "Gravity Orb", "hint": "It pulls you toward the exit.", "isSolution": true, "solutionText": "You are pulled into the portal!" },
+      { "name": "Broken Satellite", "hint": "A relic of an old world.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 95,
+    "scene": "The Steel Fortress",
+    "description": "Cold walls and heavy guards.",
+    "items": [
+      { "name": "Iron Shield", "hint": "Strong and heavy.", "isSolution": false },
+      { "name": "Secret Pass", "hint": "A whisper that opens the gate.", "isSolution": true, "solutionText": "The guards let you pass!" },
+      { "name": "Steel Spike", "hint": "A sharp weapon.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 96,
+    "scene": "The Prism Room",
+    "description": "White light and rainbow reflections.",
+    "items": [
+      { "name": "Red Lens", "hint": "Shows only the heat.", "isSolution": false },
+      { "name": "White Diamond", "hint": "It focuses the light into a beam.", "isSolution": true, "solutionText": "The beam unlocks the door!" },
+      { "name": "Blue Lens", "hint": "Shows only the cold.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 97,
+    "scene": "The Echo Cave",
+    "description": "Your voice returns to you a thousand times.",
+    "items": [
+      { "name": "Metal Bell", "hint": "It rings loudly.", "isSolution": false },
+      { "name": "Silence Stone", "hint": "It absorbs all sound.", "isSolution": true, "solutionText": "The silence reveals the exit!" },
+      { "name": "Tuning Fork", "hint": "Creates a steady tone.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 98,
+    "scene": "The Floating Reef",
+    "description": "Coral that floats in the air.",
+    "items": [
+      { "name": "Air Bubble", "hint": "It floats gently upward.", "isSolution": false },
+      { "name": "Ocean Heart", "hint": "Its beat pulls the reef together.", "isSolution": true, "solutionText": "A bridge of coral forms!" },
+      { "name": "Sea Shell", "hint": "It echoes the ocean.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 99,
+    "scene": "The Neon Spire",
+    "description": "A tower of light and data.",
+    "items": [
+      { "name": "Data Cable", "hint": "Pulsing with information.", "isSolution": false },
+      { "name": "Master Key", "hint": "It unlocks the top of the spire.", "isSolution": true, "solutionText": "You reach the summit of the city!" },
+      { "name": "Circuit Chip", "hint": "A small piece of hardware.", "isSolution": false }
+    ]
+  },
+  {
+    "id": 100,
+    "scene": "The Final Gateway",
+    "description": "The end of the journey. One last choice.",
+    "items": [
+      { "name": "Golden Key", "hint": "The key to everything.", "isSolution": false },
+      { "name": "The Truth", "hint": "The realization that the journey was the goal.", "isSolution": true, "solutionText": "You have ascended beyond the puzzles! Congratulations!" },
+      { "name": "Silver Key", "hint": "A fine key, but not the right one.", "isSolution": false }
+    ]
   }
 ]
