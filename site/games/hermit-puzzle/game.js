@@ -1,6 +1,6 @@
 async function loadPuzzles() {
     try {
-        const response = await fetch('puzzles.json');
+        const response = await fetch('../games.json');
         return await response.json();
     } catch (e) {
         console.error("Failed to load puzzles", e);
